@@ -74,12 +74,18 @@
 
 [@baiqwerdvd](https://github.com/baiqwerdvd)：后端重构
 
+[@zyjared](https://github.com/zyjared)：前端重构
+
 [b站@理性蒸发人](https://space.bilibili.com/22799131)：背景音乐 血狼打灰歌
 
 [b站@埃里克茨威格](https://space.bilibili.com/441494429)：背景音乐 兔头兔头张开嘴
 
+[b站@冻di绿苹果](https://space.bilibili.com/111057049)：背景音乐 青花瓷
+
+[b站@苏冉Official](https://space.bilibili.com/87692525)：背景音乐 向仙术奔去
+
 ## 版权及鸣谢
 
-本投票两两比较的思路来源于NGA，在数据爬取和信息展示中，得到了PRTS.wiki和阿里云高校计划服务器的支持，在程序设计制作过程中，还得到了血狼破军和各位群友、网友的支持和建议，在此向各位表示感谢！
+本投票两两比较的思路来源于[NGA@InfusedRaindrop](https://ngabbs.com/read.php?tid=36563614)，在数据爬取和信息展示中，得到了PRTS.wiki和阿里云高校计划服务器的支持，在程序设计制作过程中，还得到了血狼破军和各位群友、网友的支持和建议，在此向各位表示感谢！
 
 本程序内使用的游戏图片、文本等信息，其版权属于 Arknights/上海鹰角网络科技有限公司。
